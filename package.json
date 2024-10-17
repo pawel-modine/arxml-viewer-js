@@ -22,7 +22,7 @@
     "sax": "^1.2.4",
     "saxpath": "^0.6.5",
     "traverse": "^0.6.6",
-    "vue": "^2.6.11",
+    "vue": "^3.0.0",
     "vuex": "^3.4.0"
   },
   "devDependencies": {
