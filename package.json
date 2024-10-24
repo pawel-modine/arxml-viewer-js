@@ -18,7 +18,7 @@
     "core-js": "^3.6.5",
     "electron-find": "^1.0.6",
     "fast-xml-parser": "^3.17.5",
-    "jsonpath-plus": "^4.0.0",
+    "jsonpath-plus": "^10.0.7",
     "sax": "^1.2.4",
     "saxpath": "^0.6.5",
     "traverse": "^0.6.6",
